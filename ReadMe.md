@@ -1,4 +1,4 @@
-# CarWale Test Automation Framework
+# Playwright-Hybrid Test Automation Framework
 
 A comprehensive Playwright-based test automation framework for the CarWale automotive e-commerce platform, built with TypeScript for type-safe test development using Page Object Model (POM) pattern.
 
